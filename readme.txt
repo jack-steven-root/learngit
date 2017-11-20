@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 刘勇你还有很多事要做,你现在什么都没有
 其他的一切都不重要了,你现在除了学习,其他什么什么都没有了
 告诉你,有些的事一定不要自己去抗,这是一个共享的社会的
@@ -25,3 +26,8 @@ asdf
 sad
 fas
 d
+=======
+adsadsf
+asdfsadf luyong
+liyong liuyong
+>>>>>>> feature1
