@@ -4,4 +4,4 @@
 一方面不要忽略个人的想法,同时的也要考虑的集体的力量是无限大的,
 不要考虑是个人做,还是大家一起做,只要能做成,就是好的
 git is a distributed version control system.
-Git is free software distributed 
+Git is free software distributed under the GPL
